@@ -1,2 +1,1 @@
-# GFGproblemsSolved
-Daily Solving Problems 
+# Daily Problems Solved
