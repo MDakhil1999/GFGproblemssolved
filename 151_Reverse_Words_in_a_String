@@ -6,5 +6,5 @@ class Solution:
     def reverseWords(self, s: str) -> str:
         arr = list(map(str,s.split()))
         arr = arr[::-1]
-        ans = " ".join(arr)
-        return ans
+        res = " ".join(arr)
+        return res
